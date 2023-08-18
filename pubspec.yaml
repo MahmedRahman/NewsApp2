@@ -61,6 +61,7 @@ flutter:
     - assets/image/serech_icon.png
     - assets/image/notifaction.png
     - assets/image/slide_img.png
+    - assets/image/image1.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
